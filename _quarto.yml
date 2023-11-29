@@ -16,7 +16,7 @@ website:
   page-footer:
     background: dark
     left:
-      - "Copyright 2023, Dr Santam Chakraborty"
+      - "Copyright 2023, Department of Radiation Oncology, Tata Medical Center, Kolkata"
     right:
       - icon: github
         href: https://github.com/drsantam
