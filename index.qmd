@@ -38,7 +38,7 @@ leaflet() %>%
   addMarkers(lat=22.577170, lng=88.480220, popup="Tata Medical Center")
 ```
 
-# Learning Objectives
+# 📖 Learning Objectives
 
 📊 **Drafting a Statistical Analysis Plan**\
 *Develop skills to create a comprehensive plan for statistical analysis, ensuring a structured and goal-oriented approach to data examination.*
@@ -85,7 +85,7 @@ Closed and small group of 8 - 10 participants and two to three faculty. Based on
 Please note that you will be doing hands on coding with your own data using R. *We believe that is the best and the fastest way to learn R*.
 :::
 
-# Course Fees
+# 💰 Course Fees
 
 | Category                                                                                          | Amount                |
 |------------------------------------------------------|------------------|
