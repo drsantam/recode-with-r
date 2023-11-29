@@ -12,7 +12,21 @@ In this 3 day workshop we will work with you along with your **OWN data-set** (n
 
 **Last date of registration** **& abstract submission**: 31st December 2023
 
-**Date of Workshop** : 17th - 19th January 2024.
+**Dates of Workshop** : 17th - 19th January 2024.
+
+# Venue
+
+This is a on-premise workshop. The workshop will be conducted at:
+
+Tata Medical Center, 14 MAR (E-W), New Town, Action Area III, Rajarhat, West Bengal 700156 https://tmckolkata.com Phone: +91-33-66057400
+
+```{r}
+library(leaflet)
+
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=88.4796313478333, lat=-22.577130545395814, popup="Tata Medical Center")
+```
 
 # Learning Objectives
 
@@ -58,14 +72,13 @@ Closed and small group of 8 - 10 participants and two to three faculty. Based on
 :::
 
 ::: callout-important
-
 Please note that you will be doing hands on coding with your own data using R. *We believe that is the best and the fastest way to learn R*.
-::: 
+:::
 
 # Course Fees
 
 | Category                                                                                          | Amount                |
-|-------------------------------------------------------|-----------------|
+|---------------------------------------------------------------------------------------------------|-----------------------|
 | Health Care Professionals from India and SAARC nations or LMICs and working in a hospital setting | ₹ 25,000 (\~ \$300)   |
 | Health care professionals working in other countries                                              | ₹ 50,000 (\~ \$ 600 ) |
 | Healthcare professionals working in Industry                                                      | ₹ 75,000 (\~ \$ 900)  |
@@ -86,3 +99,7 @@ Additionally we have provision to provide scholarships to meritorious students. 
 # Registration
 
 Please register online here.
+
+# Course Coordinator
+
+Dr Santam Chakraborty, Senior Consultant, Department of Radiation Oncology, Tata Medical Center, Kolkata, West Bengal, India
