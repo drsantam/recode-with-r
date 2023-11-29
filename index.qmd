@@ -6,7 +6,7 @@ title: "Recode with R"
 
 **Recode with R** is a unique 3 day workshop designed for health care professionals with an interest in research and who are keen to learn statistical data analysis & visualization. An element of being comfortable with being outside your comfort zone is also needed as in this workshop we will be helping you write code for analysis of your data.
 
-In this 3 day workshop we will work with you along with your **OWN dataset** (no toy or dummy data here) to give you a manuscript ready result while you are learning valuable skills in R and statistical analysis.
+In this 3 day workshop we will work with you along with your **OWN data-set** (no toy or dummy data here) to give you a manuscript ready result while you are learning valuable skills in **R** and **statistical analysis**.
 
 # Important Dates
 
@@ -49,7 +49,7 @@ Closed and small group of 8 - 10 participants and two to three faculty. Based on
 
 📄 **Abstract Submission**: A brief abstract with the background of the research question, the objectives, and the methodology of the study will enable us to prepare for your analysis in advance. In addition we may choose to invite experts who will specifically assist you in your analysis.
 
-💾 **A** **dataset for Analysis**: Data should be in a machine-readable format. We will provide you with instructions on how to ensure data is prepared for analysis so that valuable workshop time is not wasted in this. We recommend that this data is related to a real project / research you are directly involved in so that you have the maximum "*skin in the game*".
+💾 **A** **data-set for Analysis**: Data should be in a machine-readable format. We will provide you with instructions on how to ensure data is prepared for analysis so that valuable workshop time is not wasted in this. We recommend that this data is related to a real project / research you are directly involved in so that you have the maximum "*skin in the game*".
 
 💻 **Your Own Laptop**: Network connection will be provided 🤝.
 
@@ -57,10 +57,15 @@ Closed and small group of 8 - 10 participants and two to three faculty. Based on
 **Please note that this is an intensive hands on course and suitable for you only if you can give the time commitment. Also no SPSS related help will be provided during or after the course.**
 :::
 
+::: callout-important
+
+Please note that you will be doing hands on coding with your own data using R. *We believe that is the best and the fastest way to learn R*.
+::: 
+
 # Course Fees
 
 | Category                                                                                          | Amount                |
-|---------------------------------------------------------------------------------------------------|-----------------------|
+|-------------------------------------------------------|-----------------|
 | Health Care Professionals from India and SAARC nations or LMICs and working in a hospital setting | ₹ 25,000 (\~ \$300)   |
 | Health care professionals working in other countries                                              | ₹ 50,000 (\~ \$ 600 ) |
 | Healthcare professionals working in Industry                                                      | ₹ 75,000 (\~ \$ 900)  |
