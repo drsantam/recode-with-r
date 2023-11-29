@@ -9,6 +9,10 @@ website:
       text: Home
     - href: course-outline.qmd
       text: Course Outline
+    - href: https://tmckolkata.com
+      text: Register
+    - href: faq.qmd
+      text: FAQs
 format:
   html:
     theme: superhero

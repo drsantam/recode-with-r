@@ -1,0 +1,19 @@
+---
+title: "Frequently Asked Questions"
+---
+
+1.  **What is the focus of the 'Recode with R' workshop?** *"Recode with R" is a 3-day workshop primarily aimed at healthcare professionals interested in research, focusing on statistical data analysis and visualization using R.*
+
+2.  **What are the key learning objectives of this workshop?** *Participants will learn about drafting statistical analysis plans, data cleaning, exploratory and descriptive data analysis, regression modeling, survival analysis, and advanced visualization techniques.*
+
+3.  **What is the format of the course?** *The course is designed for a small group of 8-10 participants, allowing for personalized attention.*
+
+4.  **What are the pre-requisites for attending the workshop?** *Participants are required to submit an abstract, have a dataset in a machine-readable format for analysis, and bring their own laptop.*
+
+5.  **How much does the workshop cost and what does the fee include?** *The course fees vary based on the participant's professional background and location. Fees include lodging, meals, cloud space access, and course materials.*
+
+6.  **How can I register for the workshop?** *Registration for the workshop can be done online through the provided link.*
+
+7.  **Who is coordinating the workshop?** *Dr. Santam Chakraborty, a senior consultant at Tata Medical Center, Kolkata, is the course coordinator.*
+
+8.  **Why should I choose this course?** *This workshop is uniquely tailored for healthcare professionals who wish to gain hands-on experience in statistical data analysis using R.*
