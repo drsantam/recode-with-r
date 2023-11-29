@@ -37,4 +37,16 @@ Perhaps and most importantly we will be teaching you the tools of trade that wil
 
 # Course Format
 
-Closed and small group of 8 - 10 participants and two to three faculty. Based on the kind of studies we will be handling we may invite external faculty who are experienced with hands on analysis with R in the area of question. Each participant will bring 
+Closed and small group of 8 - 10 participants and two to three faculty. Based on the kind of studies we will be handling we may invite external faculty who are experienced with hands on analysis with R in the area of question. Each participant will bring their own dataset for the workshop and will work on their own statistical plan. However we will use all of your datasets to teach you valuables skills that you can use for your future projects. All users will be provided with access to a free cloud workspace where they can securely store their dataset(s) and analytical results. 
+
+# Pre-requsities
+
+📄 **Abstract Submission**: 
+A brief abstract with the background of the research question, the objectives, and the methodology of the study will enable us to prepare for your analysis in advance.
+
+💾 **Dataset for Analysis**: 
+Data should be in a machine-readable format. We will provide you with instructions on how to ensure data is cleaned for analysis.
+
+💻 **Your Own Laptop**: 
+Network connection will be provided.
+
