@@ -9,10 +9,19 @@ website:
       text: Home
     - href: course-outline.qmd
       text: Course Outline
-    - href: https://tmckolkata.com
-      text: Register
     - href: faq.qmd
       text: FAQs
+    - href: https://tmckolkata.com
+      text: Register
+  page-footer:
+    background: dark
+    left:
+      - "Copyright 2023, Dr Santam Chakraborty"
+    right:
+      - icon: github
+        href: https://github.com/drsantam
+      - icon: twitter
+        href: https://twitter.com/learningonco      
 format:
   html:
     theme: superhero
