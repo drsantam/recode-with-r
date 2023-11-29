@@ -20,40 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -120,8 +86,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="./course-outline.html" rel="" target="">
+ <span class="menu-text">Course Outline</span></a>
   </li>  
 </ul>
             <div class="quarto-navbar-tools ms-auto">
@@ -135,7 +101,15 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#hi" id="toc-hi" class="nav-link active" data-scroll-target="#hi">Hi 👋</a></li>
+  <li><a href="#learning-objectives" id="toc-learning-objectives" class="nav-link" data-scroll-target="#learning-objectives">Learning Objectives</a></li>
+  <li><a href="#course-format" id="toc-course-format" class="nav-link" data-scroll-target="#course-format">Course Format</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -157,16 +131,36 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 </header>
 
-<p>This is a Quarto website.</p>
-<p>To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" class="uri">https://quarto.org/docs/websites</a>.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
+<section id="hi" class="level1">
+<h1>Hi 👋</h1>
+<p><strong>Recode with R</strong> is a unique 3 day workshop designed for health care professionals with an interest in research and who are keen to learn statistical data analysis &amp; visualization. An element of being comfortable with being outside your comfort zone is also needed as in this workshop we will be helping you write code for analysis of your data.</p>
+<p>In this 3 day workshop we will work with you along with your <strong>OWN dataset</strong> (no toy or dummy data here) to give you a manuscript ready result while you are learning valuable skills in R and statistical analysis.</p>
+</section>
+<section id="learning-objectives" class="level1">
+<h1>Learning Objectives</h1>
+<p>📊 <strong>Drafting a Statistical Analysis Plan</strong><br>
+<em>Develop skills to create a comprehensive plan for statistical analysis, ensuring a structured and goal-oriented approach to data examination.</em></p>
+<p>🧹 <strong>Data Cleaning and Pivoting</strong><br>
+<em>Learn techniques for refining data, removing inaccuracies, and transforming data structures for more effective analysis.</em></p>
+<p>🔍 <strong>Exploratory Data Analysis</strong><br>
+<em>Engage in initial investigations of data to discover patterns, spot anomalies, and test hypotheses using various methods.</em></p>
+<p>📈 <strong>Describing Your Data</strong><br>
+<em>Gain expertise in summarizing and interpreting your data sets, providing a clear understanding of the underlying characteristics.</em></p>
+<p>📉 <strong>Regression Modelling</strong><br>
+<em>Master the art of building regression models to understand and predict relationships between variables in your data.</em></p>
+<p>⏳ <strong>Survival Analysis</strong><br>
+<em>Explore survival analysis techniques to predict the time until an event of interest.</em></p>
+<p>🌈 <strong>Advanced Visualization and Grammar of Graphics</strong><br>
+<em>Delve into sophisticated data visualization methods and learn the grammar of graphics for more impactful data presentation.</em></p>
+<p>This workshop is designed to provide a comprehensive understanding of various aspects of data analysis, from the initial planning stages to advanced visualization techniques. Participants will learn how to clean and pivot data, perform exploratory analysis, describe data effectively, build regression models, conduct survival analysis, and create advanced visual representations. This program is ideal for those looking to deepen their understanding and skills in statistical data analysis.</p>
+<p>Perhaps and most importantly we will be teaching you the tools of trade that will enable you to analyze your data in a reproducible fashion. In order to achieve this we will be teaching you how to code in R and use various packages and libraries that</p>
+</section>
+<section id="course-format" class="level1">
+<h1>Course Format</h1>
+<p>Closed and small group of 8 - 10 participants and two to three faculty. Based on the kind of studies we will be handling we may invite external faculty who are experienced with hands on analysis with R in the area of question. Each participant will bring</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
