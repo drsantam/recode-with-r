@@ -1,23 +1,16 @@
 project:
   type: website
   output-dir: docs
-
 website:
-  title: "Recode with R"
+  title: Recode with R
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: course-outline.qmd
-        text: "Course Outline"
-
+    - href: index.qmd
+      text: Home
+    - href: course-outline.qmd
+      text: Course Outline
 format:
   html:
-    theme: 
-      dark: darkly
-      light: lightly
-    css: styles.css
+    theme: superhero
     toc: true
-
 editor: visual
-
