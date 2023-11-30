@@ -58,7 +58,7 @@ Please note that you will be doing hands on coding with your own data using R. *
 # 💰 Course Fees
 
 | Category                                                                                          | Amount                |
-|-------------------------------------------------------|-----------------|
+|------------------------------------------------------|------------------|
 | Health Care Professionals from India and SAARC nations or LMICs and working in a hospital setting | ₹ 25,000 (\~ \$300)   |
 | Health care professionals working in other countries                                              | ₹ 50,000 (\~ \$ 600 ) |
 | Healthcare professionals working in Industry                                                      | ₹ 75,000 (\~ \$ 900)  |
@@ -88,38 +88,21 @@ Registration and online payment of the fees can be made on the hospital portal.
 
 **Dates of Workshop** : 17th - 19th January 2024.
 
-# 📌 Venue
 
-This is a on-premise workshop. The workshop will be conducted at:
-
-**Tata Medical Center**,
-
-14 MAR (E-W), New Town, Action Area III,
-
-Rajarhat, West Bengal, India 700156
-
-Website: <https://tmckolkata.com>
-
-Phone: +91-33-66057400
-
-```{r}
-#| echo: false
-
-library(leaflet)
-
-leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lat=22.577170, lng=88.480220, popup="Tata Medical Center")
-```
-
-# 
-
-# 🧑Course Coordinator
+# 🧑Course Coordinators
 
 **Dr Santam Chakraborty**,
 
 Senior Consultant, Department of Radiation Oncology,
 
-Tata Medical Center, Kolkata, West Bengal, India
+Tata Medical Center
 
 📧 santam.chakraborty\[at\]tmckolkata\[dot\]com
+
+**Mr Sougata Maity**
+
+Data Imaging Scientist, Department of Radiation Oncology,
+
+Tata Medical Center
+
+📧 maitysougata724\[at\]gmail\[dot\]com

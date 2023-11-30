@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Recode with R</title>
+<title>Recode with R - Course Outline</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -59,6 +59,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="site_libs/htmlwidgets-1.6.2/htmlwidgets.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<link href="site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
+<script src="site_libs/leaflet-1.3.1/leaflet.js"></script>
+<link href="site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
+<script src="site_libs/proj4-2.6.2/proj4.min.js"></script>
+<script src="site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
+<link href="site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
+<script src="site_libs/leaflet-binding-2.2.1/leaflet.js"></script>
 
 
 </head>
@@ -81,12 +90,16 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./course-outline.html" rel="" target="">
  <span class="menu-text">Course Outline</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./Venue.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Venue</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./faq.html" rel="" target="">
@@ -112,14 +125,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#hi" id="toc-hi" class="nav-link active" data-scroll-target="#hi">Hi 👋</a></li>
-  <li><a href="#learning-objectives" id="toc-learning-objectives" class="nav-link" data-scroll-target="#learning-objectives">📖 Learning Objectives</a></li>
-  <li><a href="#course-format" id="toc-course-format" class="nav-link" data-scroll-target="#course-format">🎒 Course Format</a></li>
-  <li><a href="#pre-requisites" id="toc-pre-requisites" class="nav-link" data-scroll-target="#pre-requisites">📋 Pre-requisites</a></li>
-  <li><a href="#course-fees" id="toc-course-fees" class="nav-link" data-scroll-target="#course-fees">💰 Course Fees</a></li>
-  <li><a href="#registration" id="toc-registration" class="nav-link" data-scroll-target="#registration">✍️ Registration</a></li>
-  <li><a href="#important-dates" id="toc-important-dates" class="nav-link" data-scroll-target="#important-dates">🗓️ Important Dates</a></li>
-  <li><a href="#course-coordinators" id="toc-course-coordinators" class="nav-link" data-scroll-target="#course-coordinators">🧑Course Coordinators</a></li>
+  <li><a href="#venue" id="toc-venue" class="nav-link active" data-scroll-target="#venue">📌 Venue</a></li>
+  <li><a href="#directions" id="toc-directions" class="nav-link" data-scroll-target="#directions">🧭 Directions</a></li>
   </ul>
 </nav>
     </div>
@@ -128,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Recode with R</h1>
+<h1 class="title">Course Outline</h1>
 </div>
 
 
@@ -143,125 +150,25 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="hi" class="level1">
-<h1>Hi 👋</h1>
-<p><strong>Recode with R</strong> is a unique 3 day workshop designed for health care professionals with an interest in research and who are keen to learn statistical data analysis &amp; visualization. An element of being comfortable with being outside your comfort zone is also needed as in this workshop we will be helping you write code for analysis of your data.</p>
-<p>In this <strong>3 day workshop</strong> we will work with you along with your <strong>OWN data-set</strong> (no toy or dummy data here) to give you a manuscript ready result and help you learn valuable skills in <strong>R</strong> <strong>programming</strong> and <strong>statistical analysis</strong>.</p>
-</section>
-<section id="learning-objectives" class="level1">
-<h1>📖 Learning Objectives</h1>
-<p>📊 <strong>Drafting a Statistical Analysis Plan</strong><br>
-<em>Develop skills to create a comprehensive plan for statistical analysis, ensuring a structured and goal-oriented approach to data examination.</em></p>
-<p>🧹 <strong>Data Cleaning and Pivoting</strong><br>
-<em>Learn techniques for refining data, removing inaccuracies, and transforming data structures for more effective analysis.</em></p>
-<p>🔍 <strong>Exploratory Data Analysis</strong><br>
-<em>Engage in initial investigations of data to discover patterns, spot anomalies, and test hypotheses using various methods.</em></p>
-<p>📈 <strong>Describing Your Data</strong><br>
-<em>Gain expertise in summarizing and interpreting your data sets, providing a clear understanding of the underlying characteristics.</em></p>
-<p>📉 <strong>Regression Modelling</strong><br>
-<em>Master the art of building regression models to understand and predict relationships between variables in your data.</em></p>
-<p>⏳ <strong>Survival Analysis</strong><br>
-<em>Explore survival analysis techniques to predict the time until an event of interest.</em></p>
-<p>🌈 <strong>Advanced Visualization and Grammar of Graphics</strong><br>
-<em>Delve into sophisticated data visualization methods and learn the grammar of graphics for more impactful data presentation.</em></p>
-<p>This workshop is designed to provide a comprehensive understanding of various aspects of data analysis, from the initial planning stages to advanced visualization techniques. Participants will learn how to clean and pivot data, perform exploratory analysis, describe data effectively, build regression models, conduct survival analysis, and create advanced visual representations. This program is ideal for those looking to deepen their understanding and skills in statistical data analysis.</p>
-<p>Perhaps and most importantly we will be teaching you the tools of trade that will enable you to analyze your data in a reproducible fashion. In order to achieve this we will be teaching you how to code in R and use various packages and libraries that</p>
-</section>
-<section id="course-format" class="level1">
-<h1>🎒 Course Format</h1>
-<p>Closed and small group of 8 - 10 participants and two to three faculty. Based on the kind of studies we will be handling we may invite external faculty who are experienced with hands on analysis with R in the area of question. Each participant will bring their own dataset for the workshop and will work on their own statistical plan. However we will use all of your datasets to teach you valuables skills that you can use for your future projects. All users will be provided with access to a free cloud workspace where they can securely store their dataset(s) and analytical results.</p>
-</section>
-<section id="pre-requisites" class="level1">
-<h1>📋 Pre-requisites</h1>
-<p>📄 <strong>Abstract Submission</strong>: A brief abstract with the background of the research question, the objectives, and the methodology of the study will enable us to prepare for your analysis in advance. In addition we may choose to invite experts who will specifically assist you in your analysis.</p>
-<p>💾 <strong>A</strong> <strong>data-set for Analysis</strong>: Data should be in a machine-readable format. We will provide you with instructions on how to ensure data is prepared for analysis so that valuable workshop time is not wasted in this. We recommend that this data is related to a real project / research you are directly involved in so that you have the maximum “<em>skin in the game</em>”.</p>
-<p>💻 <strong>Your Own Laptop</strong>: Network connection will be provided 🤝.</p>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><strong>Please note that this is an intensive hands on course and suitable for you only if you can give the time commitment. Also no SPSS related help will be provided during or after the course.</strong></p>
-</div>
-</div>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Important
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Please note that you will be doing hands on coding with your own data using R. <em>We believe that is the best and the fastest way to learn R</em>.</p>
+<section id="venue" class="level1">
+<h1>📌 Venue</h1>
+<p>This is a on-premise workshop. The workshop will be conducted at:</p>
+<p><strong>Tata Medical Center</strong>,</p>
+<p>14 MAR (E-W), New Town, Action Area III,</p>
+<p>Rajarhat, West Bengal, India 700156</p>
+<p>Website: <a href="https://tmckolkata.com" class="uri">https://tmckolkata.com</a></p>
+<p>Phone: +91-33-66057400</p>
+<div class="cell">
+<div class="cell-output-display">
+<div class="leaflet html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-231ed2d9109b77586cf3" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-231ed2d9109b77586cf3">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addMarkers","args":[22.57717,88.48022,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"Tata Medical Center",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[22.57717,22.57717],"lng":[88.48022,88.48022]}},"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 </section>
-<section id="course-fees" class="level1">
-<h1>💰 Course Fees</h1>
-<table class="table">
-<caption>Course Fees</caption>
-<colgroup>
-<col style="width: 75%">
-<col style="width: 25%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Category</th>
-<th>Amount</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Health Care Professionals from India and SAARC nations or LMICs and working in a hospital setting</td>
-<td>₹ 25,000 (~ $300)</td>
-</tr>
-<tr class="even">
-<td>Health care professionals working in other countries</td>
-<td>₹ 50,000 (~ $ 600 )</td>
-</tr>
-<tr class="odd">
-<td>Healthcare professionals working in Industry</td>
-<td>₹ 75,000 (~ $ 900)</td>
-</tr>
-</tbody>
-</table>
-<p>The course fee includes:</p>
-<ol type="1">
-<li>Lodging in twin sharing basis during the course if you are out of station from Kolkata.</li>
-<li>Lunch and coffee during the workshop.</li>
-<li>Access to a cloud based space which you can use for your analysis for 10 days after the course.</li>
-<li>Unlimited access to a private repository with course materials.</li>
-</ol>
-<p>Please note transportation to / from the venue is not included. However the lodging premises will be very near to Tata Medical Center and will be easily accessible by public transportation.</p>
-<p>Additionally we have provision to provide scholarships to meritorious students. Please note scholarships will be provided as cash awards after completion of the workshop and can be used by you to defray the costs incurred towards the course fees. Selection to the scholarship will be done by the course organizers and there is no obligation to provide a scholarship.</p>
-</section>
-<section id="registration" class="level1">
-<h1>✍️ Registration</h1>
-<p>Registration and online payment of the fees can be made on the hospital portal.</p>
-<p><a href="https://tmckolkata.com" class="btn btn-primary" title="Register for course">Register</a></p>
-</section>
-<section id="important-dates" class="level1">
-<h1>🗓️ Important Dates</h1>
-<p><strong>Last date of registration</strong> <strong>&amp; abstract submission</strong>: 31st December 2023</p>
-<p><strong>Dates of Workshop</strong> : 17th - 19th January 2024.</p>
-</section>
-<section id="course-coordinators" class="level1">
-<h1>🧑Course Coordinators</h1>
-<p><strong>Dr Santam Chakraborty</strong>,</p>
-<p>Senior Consultant, Department of Radiation Oncology,</p>
-<p>Tata Medical Center</p>
-<p>📧 santam.chakraborty[at]tmckolkata[dot]com</p>
-<p><strong>Mr Sougata Maity</strong></p>
-<p>Data Imaging Scientist, Department of Radiation Oncology,</p>
-<p>Tata Medical Center</p>
-<p>📧 maitysougata724[at]gmail[dot]com</p>
+<section id="directions" class="level1">
+<h1>🧭 Directions</h1>
+<p>Tata Medical Center is located in Newtown Action area 3 and reasonably well recognized landmark. The local bus stop is called “<strong><em>Narkelbagan</em></strong>” if you are coming from the main city of Kolkata. This will be one bus stop from the Biswa Bangla gate. To get directions to the place please click the button to open this in Google maps on your device.</p>
+<p><a href="https://www.google.com/maps/dir/?api=1&amp;destination=Tata+Medical+Center&amp;destination_place_id=ChIJUeLZXc0KAjoRZgBfPQQAVFA&amp;travelmode=driving" class="btn btn-success" target="_blank" title="Directions to Tata Medical Center">Directions</a></p>
 
 
 </section>

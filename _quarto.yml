@@ -9,6 +9,8 @@ website:
       text: Home
     - href: course-outline.qmd
       text: Course Outline
+    - href: Venue.qmd
+      text: Venue
     - href: faq.qmd
       text: FAQs
     - href: https://tmckolkata.com

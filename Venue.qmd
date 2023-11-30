@@ -1,0 +1,40 @@
+---
+title: "Course Outline"
+---
+
+# 📌 Venue
+
+This is a on-premise workshop. The workshop will be conducted at:
+
+**Tata Medical Center**,
+
+14 MAR (E-W), New Town, Action Area III,
+
+Rajarhat, West Bengal, India 700156
+
+Website: <https://tmckolkata.com>
+
+Phone: +91-33-66057400
+
+```{r}
+#| echo: false
+
+library(leaflet)
+
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lat=22.577170, lng=88.480220, popup="Tata Medical Center")
+
+
+```
+
+```{r}
+#| echo: false
+# place_id <- "ChIJUeLZXc0KAjoRZgBfPQQAVFA"
+```
+
+# 🧭 Directions
+
+Tata Medical Center is located in Newtown Action area 3 and reasonably well recognized landmark. The local bus stop is called "***Narkelbagan***" if you are coming from the main city of Kolkata. This will be one bus stop from the Biswa Bangla gate. To get directions to the place please click the button to open this in Google maps on your device.
+
+[Directions](https://www.google.com/maps/dir/?api=1&destination=Tata+Medical+Center&destination_place_id=ChIJUeLZXc0KAjoRZgBfPQQAVFA&travelmode=driving "Directions to Tata Medical Center"){.btn .btn-success target="_blank"}
