@@ -3,16 +3,15 @@ title: "Frequently Asked Questions"
 callout-appearance: simple
 ---
 
-
 ::: callout
-## What is the focus of the 'Recode with R' workshop?**
+## What is the focus of the 'Recode with R' workshop?\*\*
 
 *"Recode with R" is a 3-day workshop primarily aimed at healthcare professionals interested in research, focusing on statistical data analysis and visualization using R.*
 :::
 
 ::: callout
-
 ## What are the key learning objectives of this workshop?
+
 *Participants will learn about drafting statistical analysis plans, data cleaning, exploratory and descriptive data analysis, regression modeling, survival analysis, and advanced visualization techniques.*
 :::
 
@@ -30,23 +29,30 @@ callout-appearance: simple
 
 ::: callout
 ## Why do you need an abstract ?
-*We need an abstract to understand that kind of analysis that will be required for you. This will not only allow us to give you the correct guidance during the workshop but also prevent wastage of time. Additionally if we feel that a specialized expertise is required we will be able to get that in place. Finally, we will also determine if this is a good fit for the workshop.* 
+
+*We need an abstract to understand that kind of analysis that will be required for you. This will not only allow us to give you the correct guidance during the workshop but also prevent wastage of time. Additionally if we feel that a specialized expertise is required we will be able to get that in place. Finally, we will also determine if this is a good fit for the workshop.*
 :::
 
 ::: callout
 ## Why are we charging this much for the workshop ?
+
 *We feel that a significant amount of time will be spent by the faculty to ensure that your analysis is completed properly. Hence this course fees is kept. As far as we are aware there are no other courses in India which adopt this methodology for teaching.*
 :::
 
-
 ::: callout
 ## What does the fee include ?
-*The course fees vary based on the participant's professional background and location. Fees include lodging, meals, cloud space access, and course materials.*
-:::
 
+*The course fees vary based on the participant's professional background and location. Fees include lodging, meals, cloud space access, and course materials. However this course is priced quite competitively as compared to similiar courses in India.*
+:::
 
 ::: callout
 ## Is there any kind of restriction on the study that can be submitted ?
 
 *Please note that we are not here to judge the scientific merit of your study. That ship has sailed long ago if you are at the stage where your data is ready to be analyzed. However, if the analysis required is really esoteric we may speak with you in details to understand your requirements. This is purely so that we can devote sufficient time for each candidate.*
+:::
+
+::: callout
+## Will a certificate be provided ?
+
+*This is not a certification course and we cannot provide any education certification for attending the course. A participation certificate will be provided if you desire on letterhead for official leave purposes at your institute.*
 :::

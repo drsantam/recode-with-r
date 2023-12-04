@@ -17,12 +17,14 @@ website:
       text: Register
     - href: accomodation.qmd
       text: Accomodation
+    - href: about_kolkata.qmd
+      text: About Kolkata
     - href: faq.qmd
-      text: FAQs      
+      text: FAQs
   page-footer:
     background: dark
     left:
-      - "Copyright 2023, Department of Radiation Oncology, Tata Medical Center, Kolkata"
+      - "Copyright 2023-24, Department of Radiation Oncology, Tata Medical Center, Kolkata"
     right:
       - icon: github
         href: https://github.com/drsantam
