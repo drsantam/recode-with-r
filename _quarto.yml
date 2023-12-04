@@ -19,6 +19,8 @@ website:
       text: Accomodation
     - href: about_kolkata.qmd
       text: About Kolkata
+    - href: course_faculty.qmd
+      text: Faculty
     - href: faq.qmd
       text: FAQs
   page-footer:

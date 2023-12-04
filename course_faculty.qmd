@@ -1,0 +1,17 @@
+---
+title: "Course Faculty"
+---
+<div>
+<div style="float:left; position:relative;top:0px;padding:10px;">
+![](images/santam.jpg){alt="santam" fig-alt="Image of Dr Santam Chakraborty" fig-align="left" width="200"}
+</div>
+
+Hi, I am Dr Santam Chakraborty and I will be the principal faculty for this course. I have been a Radiation oncologist and a clinical researcher for the past decade and have an active publication record which you can view at the Google Scholar page [here](https://scholar.google.com/citations?user=R0xhZW4AAAAJ&hl=en "Santam Chakraborty's Google Scholar Page"){target="_blank"}. As a part of my scientific journey I continue to learn new statistical techniques and adopt them in my practice. I am also the prinicpal investigator of several academic clinical trials and can advice you regarding your study design if needed.
+
+I have been using R for statistical analysis of my papers over the past decade and have learnt it like many others by trial and error along with lots of help from online sources and paper books. One of the most influential teaching in this regards has been the textbook called "[Regression Modelling Strategies](https://hbiostat.org/rmsc/ "RMS Book"){target="_blank"}" by Professor Frank E Harrell, Jr. which has really shaped my views towards statistical analysis.
+
+Learning R has not been easy by any means but has taught me more about statistical analysis and the scientific methodology than any GUI driven program ever could. I have previously tried teaching R online but have found that the online medium does not really lend itself to teaching coding well. Hence the idea of this workshop came to my mind and I am hoping to teach this for three to four times a year.
+
+When I am not learning new data wrangling techniques I would be usually curling up with my favorite science fiction books at home usually with a box of candy.
+
+</div>

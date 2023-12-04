@@ -58,7 +58,7 @@ Please note that you will be doing hands on coding with your own data using R. *
 # 💰 Course Fees
 
 | Category                                                                                          | Amount                |
-|------------------------------------------------------|------------------|
+|-----------------------------------------------------|-------------------|
 | Health Care Professionals from India and SAARC nations or LMICs and working in a hospital setting | ₹ 25,000 (\~ \$300)   |
 | Health care professionals working in other countries                                              | ₹ 50,000 (\~ \$ 600 ) |
 | Healthcare professionals working in Industry                                                      | ₹ 75,000 (\~ \$ 900)  |
@@ -87,7 +87,6 @@ Registration and online payment of the fees can be made on the hospital portal.
 **Last date of registration** **& abstract submission**: 31st December 2023
 
 **Dates of Workshop** : 17th - 19th January 2024.
-
 
 # 🧑Course Coordinators
 

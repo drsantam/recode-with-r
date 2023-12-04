@@ -89,5 +89,12 @@
     "title": "About Kolkata",
     "section": "",
     "text": "Kolkata or the “City of Joy” is a metropolis located in the Eastern state of India - West Bengal. Long known as the cultural and gastronomic capital of the country, Kolkata is well connected by Rail, Road and Air with the rest of the country and other Asian nations.\nPlease read the wikipedia entry for the city here.\nPlease do note that the workshop is intensive and it is unlikely that you will find any time to move around in the city during the three days of the course. You may want to reserve Saturday for the same. 😁\n💥Trivia: Kolkata is the home to the Indian Statistical Institute (ISI). Both Prof Prasanta Chandra Mahalonbisand Prof C.R.Rao have headed this prestigious institute. Please do note that Tata Medical Center is not affiliated with Indian Statistical Institute and this course has nothing to do with ISI."
+  },
+  {
+    "objectID": "course_faculty.html",
+    "href": "course_faculty.html",
+    "title": "Course Faculty",
+    "section": "",
+    "text": "Hi, I am Dr Santam Chakraborty and I will be the principal faculty for this course. I have been a Radiation oncologist and a clinical researcher for the past decade and have an active publication record which you can view at the Google Scholar page here. As a part of my scientific journey I continue to learn new statistical techniques and adopt them in my practice. I am also the prinicpal investigator of several academic clinical trials and can advice you regarding your study design if needed.\nI have been using R for statistical analysis of my papers over the past decade and have learnt it like many others by trial and error along with lots of help from online sources and paper books. One of the most influential teaching in this regards has been the textbook called “Regression Modelling Strategies” by Professor Frank E Harrell, Jr. which has really shaped my views towards statistical analysis.\nLearning R has not been easy by any means but has taught me more about statistical analysis and the scientific methodology than any GUI driven program ever could. I have previously tried teaching R online but have found that the online medium does not really lend itself to teaching coding well. Hence the idea of this workshop came to my mind and I am hoping to teach this for three to four times a year.\nWhen I am not learning new data wrangling techniques I would be usually curling up with my favorite science fiction books at home usually with a box of candy."
   }
 ]
