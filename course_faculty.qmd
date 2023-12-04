@@ -1,10 +1,12 @@
 ---
 title: "Course Faculty"
 ---
+
 <div>
-<div style="float:left; position:relative;top:0px;padding:10px;">
+
+::: {style="float:left; position:relative;top:0px;padding:10px;"}
 ![](images/santam.jpg){alt="santam" fig-alt="Image of Dr Santam Chakraborty" fig-align="left" width="200"}
-</div>
+:::
 
 Hi, I am Dr Santam Chakraborty and I will be the principal faculty for this course. I have been a Radiation oncologist and a clinical researcher for the past decade and have an active publication record which you can view at the Google Scholar page [here](https://scholar.google.com/citations?user=R0xhZW4AAAAJ&hl=en "Santam Chakraborty's Google Scholar Page"){target="_blank"}. As a part of my scientific journey I continue to learn new statistical techniques and adopt them in my practice. I am also the prinicpal investigator of several academic clinical trials and can advice you regarding your study design if needed.
 
