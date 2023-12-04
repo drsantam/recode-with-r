@@ -16,6 +16,12 @@ Website: <https://tmckolkata.com>
 
 Phone: +91-33-66057400
 
+**Location:**
+
+Discussion Room, Academic Block, Phase 2, Tata Medical Center
+
+Please see the map below for the venue.
+
 ```{r}
 #| echo: false
 

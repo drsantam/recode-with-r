@@ -4,6 +4,8 @@ project:
 website:
   title: Recode with R
   navbar:
+    search: true
+    logo: "images/recode-with-r-logo.png"
     left:
     - href: index.qmd
       text: Home
@@ -11,10 +13,12 @@ website:
       text: Course Outline
     - href: Venue.qmd
       text: Venue
-    - href: faq.qmd
-      text: FAQs
     - href: https://tmckolkata.com
       text: Register
+    - href: accomodation.qmd
+      text: Accomodation
+    - href: faq.qmd
+      text: FAQs      
   page-footer:
     background: dark
     left:

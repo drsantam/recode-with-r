@@ -1,19 +1,52 @@
 ---
 title: "Frequently Asked Questions"
+callout-appearance: simple
 ---
 
-1.  **What is the focus of the 'Recode with R' workshop?** *"Recode with R" is a 3-day workshop primarily aimed at healthcare professionals interested in research, focusing on statistical data analysis and visualization using R.*
 
-2.  **What are the key learning objectives of this workshop?** *Participants will learn about drafting statistical analysis plans, data cleaning, exploratory and descriptive data analysis, regression modeling, survival analysis, and advanced visualization techniques.*
+::: callout
+## What is the focus of the 'Recode with R' workshop?**
 
-3.  **What is the format of the course?** *The course is designed for a small group of 8-10 participants, allowing for personalized attention.*
+*"Recode with R" is a 3-day workshop primarily aimed at healthcare professionals interested in research, focusing on statistical data analysis and visualization using R.*
+:::
 
-4.  **What are the pre-requisites for attending the workshop?** *Participants are required to submit an abstract, have a dataset in a machine-readable format for analysis, and bring their own laptop.*
+::: callout
 
-5.  **How much does the workshop cost and what does the fee include?** *The course fees vary based on the participant's professional background and location. Fees include lodging, meals, cloud space access, and course materials.*
+## What are the key learning objectives of this workshop?
+*Participants will learn about drafting statistical analysis plans, data cleaning, exploratory and descriptive data analysis, regression modeling, survival analysis, and advanced visualization techniques.*
+:::
 
-6.  **How can I register for the workshop?** *Registration for the workshop can be done online through the provided link.*
+::: callout
+## What is the format of the course?
 
-7.  **Who is coordinating the workshop?** *Dr. Santam Chakraborty, a senior consultant at Tata Medical Center, Kolkata, is the course coordinator.*
+*A closed small group format comprising of 8 - 10 students and 3 - 4 faculty members for personalized attention.*
+:::
 
-8.  **Why should I choose this course?** *This workshop is uniquely tailored for healthcare professionals who wish to gain hands-on experience in statistical data analysis using R.*
+::: callout
+## What do I have to bring with myself ?
+
+*Participants are required to submit an abstract, have a dataset in a machine-readable format for analysis, and bring their own laptop. Internet connection will be provided.*
+:::
+
+::: callout
+## Why do you need an abstract ?
+*We need an abstract to understand that kind of analysis that will be required for you. This will not only allow us to give you the correct guidance during the workshop but also prevent wastage of time. Additionally if we feel that a specialized expertise is required we will be able to get that in place. Finally, we will also determine if this is a good fit for the workshop.* 
+:::
+
+::: callout
+## Why are we charging this much for the workshop ?
+*We feel that a significant amount of time will be spent by the faculty to ensure that your analysis is completed properly. Hence this course fees is kept. As far as we are aware there are no other courses in India which adopt this methodology for teaching.*
+:::
+
+
+::: callout
+## What does the fee include ?
+*The course fees vary based on the participant's professional background and location. Fees include lodging, meals, cloud space access, and course materials.*
+:::
+
+
+::: callout
+## Is there any kind of restriction on the study that can be submitted ?
+
+*Please note that we are not here to judge the scientific merit of your study. That ship has sailed long ago if you are at the stage where your data is ready to be analyzed. However, if the analysis required is really esoteric we may speak with you in details to understand your requirements. This is purely so that we can devote sufficient time for each candidate.*
+:::
