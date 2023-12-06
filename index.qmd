@@ -58,7 +58,7 @@ Please note that you will be doing hands on coding with your own data using R. *
 # 💰 Course Fees
 
 | Category                                                                                          | Amount                |
-|-----------------------------------------------------|-------------------|
+|----------------------------------------------------|--------------------|
 | Health Care Professionals from India and SAARC nations or LMICs and working in a hospital setting | ₹ 25,000 (\~ \$300)   |
 | Health care professionals working in other countries                                              | ₹ 50,000 (\~ \$ 600 ) |
 | Healthcare professionals working in Industry                                                      | ₹ 75,000 (\~ \$ 900)  |
@@ -75,12 +75,6 @@ The course fee includes:
 Please note transportation to / from the venue is not included. However the lodging premises will be very near to Tata Medical Center and will be easily accessible by public transportation.
 
 Additionally we have provision to provide scholarships to meritorious students. Please note scholarships will be provided as cash awards after completion of the workshop and can be used by you to defray the costs incurred towards the course fees. Selection to the scholarship will be done by the course organizers and there is no obligation to provide a scholarship.
-
-# ✍️ Registration
-
-Registration and online payment of the fees can be made on the hospital portal.
-
-[Register](https://tmckolkata.com "Register for course"){.btn .btn-primary}
 
 # 🗓️ Important Dates
 

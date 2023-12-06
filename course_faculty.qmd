@@ -1,7 +1,9 @@
 ---
 title: "Course Faculty"
 ---
+<br> 
 
+### Santam Chakraborty
 <div>
 
 ::: {style="float:left; position:relative;top:0px;padding:10px;"}
@@ -18,10 +20,13 @@ When I am not learning new data wrangling techniques I would be usually curling 
 
 </div>
 
+<br>
+
+### Sougata Maity
 <div>
 ::: {style="float:left; position:relative;top:0px;padding:10px;"}
-![](images/santam.jpg){alt="santam" fig-alt="Image of Dr Santam Chakraborty" fig-align="left" width="200"}
+![](images/sougata.jpg){alt="sougata" fig-alt="Image of Dr Santam Chakraborty" fig-align="left" width="200"}
 :::
 
-Hi I am Mr Sougata Maity. I am currently working as a 
+Hi I am Mr Sougata Maity. I wil be your adjunct faculty in the course. I am currently working as a data imaging scientist at Tata Medical Center, Kolkata. I am a statistician by training and have completed my Masters in Statistics at ...
 </div>
