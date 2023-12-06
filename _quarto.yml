@@ -13,7 +13,7 @@ website:
       text: Course Outline
     - href: Venue.qmd
       text: Venue
-    - href: https://tmckolkata.com
+    - href: register.qmd
       text: Register
     - href: accomodation.qmd
       text: Accomodation
