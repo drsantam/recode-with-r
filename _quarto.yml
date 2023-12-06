@@ -11,10 +11,10 @@ website:
       text: Home
     - href: course-outline.qmd
       text: Course Outline
-    - href: Venue.qmd
-      text: Venue
     - href: register.qmd
       text: Register
+    - href: Venue.qmd
+      text: Venue      
     - href: accomodation.qmd
       text: Accomodation
     - href: about_kolkata.qmd
@@ -23,6 +23,8 @@ website:
       text: Faculty
     - href: faq.qmd
       text: FAQs
+    - href: mailto:RecodeR@tmckolkata.org
+      text: Email Us
   page-footer:
     background: dark
     left:
@@ -36,4 +38,5 @@ format:
   html:
     theme: superhero
     toc: true
+    email-obfuscation: javascript
 editor: visual

@@ -58,7 +58,7 @@ Please note that you will be doing hands on coding with your own data using R. *
 # 💰 Course Fees
 
 | Category                                                                                          | Amount                |
-|----------------------------------------------------|--------------------|
+|---------------------------------------------------|---------------------|
 | Health Care Professionals from India and SAARC nations or LMICs and working in a hospital setting | ₹ 25,000 (\~ \$300)   |
 | Health care professionals working in other countries                                              | ₹ 50,000 (\~ \$ 600 ) |
 | Healthcare professionals working in Industry                                                      | ₹ 75,000 (\~ \$ 900)  |
@@ -82,20 +82,24 @@ Additionally we have provision to provide scholarships to meritorious students. 
 
 **Dates of Workshop** : 17th - 19th January 2024.
 
+# 🏢 Conference Secretariat
+
+Department of Radiation Oncology, Tata Medical Center, Kolkata
+
+Phone: +91-3366057405 (ask for Mr Sougata Maity)
+
+Email: RecodeR\[at\]tmckolkata\[dot\]org
+
 # 🧑Course Coordinators
 
 **Dr Santam Chakraborty**,
 
-Senior Consultant, Department of Radiation Oncology,
-
-Tata Medical Center
+Senior Consultant, Department of Radiation Oncology, Tata Medical Center
 
 📧 santam.chakraborty\[at\]tmckolkata\[dot\]com
 
 **Mr Sougata Maity**
 
-Data Imaging Scientist, Department of Radiation Oncology,
-
-Tata Medical Center
+Data Imaging Scientist, Department of Radiation Oncology, Tata Medical Center
 
 📧 maitysougata724\[at\]gmail\[dot\]com
