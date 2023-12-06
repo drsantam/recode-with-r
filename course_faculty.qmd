@@ -1,9 +1,11 @@
 ---
 title: "Course Faculty"
 ---
-<br> 
+
+<br>
 
 ### Santam Chakraborty
+
 <div>
 
 ::: {style="float:left; position:relative;top:0px;padding:10px;"}
@@ -23,10 +25,11 @@ When I am not learning new data wrangling techniques I would be usually curling 
 <br>
 
 ### Sougata Maity
-<div>
+
 ::: {style="float:left; position:relative;top:0px;padding:10px;"}
 ![](images/sougata.jpg){alt="sougata" fig-alt="Image of Dr Santam Chakraborty" fig-align="left" width="200"}
 :::
 
-Hi I am Mr Sougata Maity. I wil be your adjunct faculty in the course. I am currently working as a data imaging scientist at Tata Medical Center, Kolkata. I am a statistician by training and have completed my Masters in Statistics at ...
-</div>
+Hi, I am Mr Sougata Maity and I will be the faculty for this course. I am a Data Imaging Scientist and currently working actively on India's first image bank - [CHAVI](https://chavi.ai "CHAVI Homepage"){target="_blank"}. My current focus is on developing tool sets that will allow us to enhance and augment this image bank in collaboration with our team members at IIT Kharagpur. I am also actively involved in developing and deploying deep learning based algorithms for various oncology tasks.
+
+As a part of my career and educational journey I continue to learn coding, web development and statistical techniques and adopt them in my practice. I have been using R and Python for statistical analysis of projects as well as for data preparation and data cleaning over the last couple of years.
