@@ -58,12 +58,14 @@ Please note that you will be doing hands on coding with your own data using R. *
 # 💰 Course Fees
 
 | Category                                                                                          | Amount                |
-|---------------------------------------------------|---------------------|
+|--------------------------------------------------|----------------------|
 | Health Care Professionals from India and SAARC nations or LMICs and working in a hospital setting | ₹ 25,000 (\~ \$300)   |
 | Health care professionals working in other countries                                              | ₹ 50,000 (\~ \$ 600 ) |
 | Healthcare professionals working in Industry                                                      | ₹ 75,000 (\~ \$ 900)  |
 
 : Course Fees
+
+**If Accommodation is not needed then discount of ₹8000 will be provided.**
 
 The course fee includes:
 
