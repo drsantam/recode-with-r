@@ -26,6 +26,7 @@ website:
     - href: mailto:RecodeR@tmckolkata.org
       text: Email Us
     - href: course_materials.qmd
+      text: Course Materials
   page-footer:
     background: dark
     left:
