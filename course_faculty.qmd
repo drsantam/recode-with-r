@@ -34,7 +34,7 @@ As a part of my career and educational journey I continue to learn coding, web d
 
 </div>
 
-### Oindrilla Roy Chowdhury
+### Oindrila Roy Chowdhury
 
 <div>
 
@@ -42,7 +42,7 @@ As a part of my career and educational journey I continue to learn coding, web d
 ![](images/oindrilla.png){alt="oindrilla" fig-alt="Image of Ms Oindrilla Roy Chowdhury" fig-align="left" width="200"}
 :::
 
-Hi, I am Ms Oindrilla Roy Chowdhury and I will be the faculty for this course. I am a Data Imaging Scientist and currently working actively on India's first image bank - [CHAVI](#0 "CHAVI Homepage"){target="_blank"}. I am actively involved in the statistical analysis of several ongoing research projects at Tata Medical Center and involved in the development of prognostic and predictive models.
+Hi, I am Ms Oindrila Roy Chowdhury and I will be the faculty for this course. I am a Data Imaging Scientist and currently working actively on India's first image bank - [CHAVI](#0 "CHAVI Homepage"){target="_blank"}. I am actively involved in the statistical analysis of several ongoing research projects at Tata Medical Center and involved in the development of prognostic and predictive models.
 
 As a part of my career and educational journey I have worked as a Bio-statistician at CRS TMH and CRS ACTREC, Mumbai.
 
