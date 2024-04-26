@@ -60,12 +60,20 @@ A closed and small group comprising 20 to 30 participants and two to three facul
 # 💰 Course Fees
 
 | Category                                             | Amount                |
-|-------------------------------------------------|-----------------------|
+|--------------------------------------------------|----------------------|
 | Permanently employed (e.g. consultants, faculty etc) | ₹ 15,000 (\~ \$180)   |
 | Fellows, Registrars and Students                     | ₹ 10,000 (\~ \$ 120 ) |
 | Nursing Professionals                                | ₹ 5,000 (\~ \$ 60)    |
 
 : Course Fees
+
+::: callout-caution
+## Refunds
+
+Please note that we will not be able to offer any refund of fees if you are unable to attend the course after registration. You will have access to the online resources and recorded videos.
+
+Any requests for refunds should reach us a maximum of 10 days prior to the start of the course (i.e. by 1st June 2024)
+:::
 
 The course fee includes:
 
