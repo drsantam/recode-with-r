@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: Recode with R - Season 2
+  title: Recode with R
   navbar:
     search: true
     logo: "images/recode-with-r-logo.png"
@@ -13,6 +13,12 @@ website:
       text: Course Outline
     - href: register.qmd
       text: Register
+    - href: Venue.qmd
+      text: Venue      
+    - href: accomodation.qmd
+      text: Accomodation
+    - href: about_kolkata.qmd
+      text: About Kolkata
     - href: course_faculty.qmd
       text: Faculty
     - href: faq.qmd

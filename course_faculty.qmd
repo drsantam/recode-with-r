@@ -2,8 +2,6 @@
 title: "Course Faculty"
 ---
 
-<br>
-
 ### Santam Chakraborty
 
 <div>
@@ -22,14 +20,30 @@ When I am not learning new data wrangling techniques I would be usually curling 
 
 </div>
 
-<br>
-
 ### Sougata Maity
 
+<div>
+
 ::: {style="float:left; position:relative;top:0px;padding:10px;"}
-![](images/sougata.jpg){alt="sougata" fig-alt="Image of Dr Santam Chakraborty" fig-align="left" width="200"}
+![](images/sougata.jpg){alt="sougata" fig-alt="Image of Mr Sougata Maity" fig-align="left" width="200"}
 :::
 
 Hi, I am Mr Sougata Maity and I will be the faculty for this course. I am a Data Imaging Scientist and currently working actively on India's first image bank - [CHAVI](https://chavi.ai "CHAVI Homepage"){target="_blank"}. My current focus is on developing tool sets that will allow us to enhance and augment this image bank in collaboration with our team members at IIT Kharagpur. I am also actively involved in developing and deploying deep learning based algorithms for various oncology tasks.
 
 As a part of my career and educational journey I continue to learn coding, web development and statistical techniques and adopt them in my practice. I have been using R and Python for statistical analysis of projects as well as for data preparation and data cleaning over the last couple of years.
+
+</div>
+
+### Oindrilla Roy Chowdhury
+
+<div>
+
+::: {style="float:left; position:relative;top:0px;padding:10px;"}
+![](images/oindrilla.png){alt="oindrilla" fig-alt="Image of Ms Oindrilla Roy Chowdhury" fig-align="left" width="200"}
+:::
+
+Hi, I am Ms Oindrilla Roy Chowdhury and I will be the faculty for this course. I am a Data Imaging Scientist and currently working actively on India's first image bank - [CHAVI](#0 "CHAVI Homepage"){target="_blank"}. I am actively involved in the statistical analysis of several ongoing research projects at Tata Medical Center and involved in the development of prognostic and predictive models.
+
+As a part of my career and educational journey I have worked as a Bio-statistician at CRS TMH and CRS ACTREC, Mumbai.
+
+</div>
