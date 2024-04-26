@@ -2,7 +2,7 @@
 title: "Register"
 ---
 
-Registration is mandatory for the workshop. We will limit the workshop to a maximum of **10 participants**. In order to ensure that we provide the appropriate guidance for you we request that you submit the following details. After these details are reviewed, we will send you the payment link to complete the registration. Please note that your registration will be confirmed only after the payment is received.
+Registration is mandatory for the workshop. We will limit the workshop to a maximum of **30 participants**. In order to ensure that we provide the appropriate guidance for you we request that you register for the workshop and provide us with your contact details. After these details are reviewed, we will send you the payment link to complete the registration. Please note that your registration will be confirmed only after the payment is received.
 
 Payment links will be sent to your email address from the conference secretariat so please ensure that our official email [RecodeR\@tmckolkata.org](mailto:RecodeR@tmckolkata.org){.email} is in your contact book. Please send a mail to us this email address if you have questions and we will answer the same.
 
@@ -10,4 +10,4 @@ Payment links will be sent to your email address from the conference secretariat
 Please [**do not**]{.underline} pay the registration fee until we send you the payment link for the same.
 :::
 
-[Register Now](https://survey.chavi.ai/recode-with-r "Register Now"){.btn .btn-success target="_blank"}
+[Register Now](https://forms.gle/iEj7jEHU6zFNaJGg7 "Register Now"){.btn .btn-success target="_blank"}
