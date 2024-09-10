@@ -4,15 +4,15 @@ callout-appearance: simple
 ---
 
 ::: callout
-## What is the focus of the 'Recode with R' workshop Season 2?\*\*
+## What is the focus of the 'Recode with R' workshop Season 3?\*\*
 
-*"Recode with R" is a online workshop focussed on understanding Research Data Management.*
+*"Recode with R" is a online workshop focused on using R for statistical analysis for your study.*
 :::
 
 ::: callout
 ## What are the key learning objectives of this workshop?
 
-*Participants will learn about the importance of data quality, ethics and data safety. They will gain hands on experience in designing data dictionaries, data capture instruments and understand how to store, version and share data safely.*
+*Participants will learn about planning the analysis for the research question(s) being asked and how to use R practically.*
 :::
 
 ::: callout
@@ -21,9 +21,8 @@ callout-appearance: simple
 *This time the course will be exclusively online. There are three virtual contact sessions planned where students and faculty will interact online. In between these virtual sessions, students will be provided with assignments which will be reviewed by the faculty online.*
 :::
 
-
 ::: callout
 ## Why do you need an study outline ?
 
-*We need an study outline to understand that kind of data requirements. This will not only allow us to give you the correct guidance during the workshop but also prevent wastage of time. Additionally if we feel that a specialized expertise is required we will be able to get that in place. Finally, we will also determine if this is a good fit for the workshop.*
+*We need an study outline to understand that kind of analysis requirements. This will not only allow us to give you the correct guidance during the workshop but also prevent wastage of time. Additionally if we feel that a specialized expertise is required we will be able to get that in place. Finally, we will also determine if this is a good fit for the workshop.*
 :::
