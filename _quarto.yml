@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: Recode with R - Season 2
+  title: Recode with R - Season 3
   navbar:
     search: true
     logo: "images/recode-with-r-logo.png"

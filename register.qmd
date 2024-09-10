@@ -10,4 +10,4 @@ Payment links will be sent to your email address from the conference secretariat
 Please [**do not**]{.underline} pay the registration fee until we send you the payment link for the same.
 :::
 
-[Register Now](https://forms.gle/iEj7jEHU6zFNaJGg7 "Register Now"){.btn .btn-success target="_blank"}
+[Register Now](https://forms.gle/qm5m4N75zSzw1itU8 "Register Now"){.btn .btn-success target="_blank"}

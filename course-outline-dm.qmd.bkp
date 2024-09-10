@@ -1,0 +1,35 @@
+---
+title: "Course Outline"
+---
+
+This is a complete virtual course with three days of online contact sessions. The outline of the teaching for the three contact session days are as follows.
+
+## Day One
+
+🤝 **Introductions and Welcome Address**: We'll begin our journey with warm introductions and a welcome speech, setting the stage for a collaborative and insightful learning experience.
+
+🎤 **Elevator Pitch for the study**: Participants will present a one slide overview of the research study they are planning. We will go into details later on during the course.
+
+🕵️‍♂️ **Understanding Ethical Issues in Research data Management**: We will be evaluating the ethical issues that you can encounter during the life-cycle of research data.
+
+📊 **Understanding Data Quality**: We will learn the elements of data quality and why quality data is so important. We will also understand the importance of standards and metadata for data sharing and data interoperability.
+
+📝 **Drafting Your data dictionary**: In the second half we'll start designing a data dictionary a crucial component of proper research data management.
+
+Assignments will be handed out the participants to draft their data dictionary over the next two days. We will continue with the discussions online the dedicated forum.
+
+## Day Two
+
+📑 **CRF Design**: We will teach you the basics of paper CRF design and how best to utilize paper CRFs in research. We also will be discussing the problems with these CRFs.
+
+📊📂 **Data Storage in Spreadsheets**: We will start out by discussing why spreadsheets are bad for data storage. We will then provide mitigation solutions that can be employed to reduce the risks associated with managing data in spreadsheets. We will also briefly provide you with an overview of data management in SPSS.
+
+The participants will be tasked with designing their paper CRFs and Spreadsheets for data storage which will be reviewed by the course faculty. As before the discussions will continue over the next two days in the dedicated forum.
+
+## Day Three
+
+🖥️ **Electronic Data Capture**: We will provide an introduction to electronic data capture systems and how to design eCRFs. REDCap will be used an example system and details of CRF design will be taught.
+
+🗄️ **Database**: We will teach you how to use an free open source database management system to manage your research data properly if you do not have access to REDCap.
+
+At the end of the third day, the participants would have translated their data dictionary into a electronic database system. We will continue with the discussions in the forum over the next two days and provide assistance to you for designing eCRF on the product of your choice.
